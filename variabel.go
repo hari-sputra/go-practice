@@ -12,6 +12,5 @@ func main() {
 	fmt.Println(name)
 
 	age := 26
-
 	fmt.Println(age)
 }
