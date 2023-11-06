@@ -10,4 +10,8 @@ func main() {
 
 	name = "Gabriela"
 	fmt.Println(name)
+
+	age := 26
+
+	fmt.Println(age)
 }
